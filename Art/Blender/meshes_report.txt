@@ -1,0 +1,26 @@
+SM_Base: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Crate: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Barrel: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Crystal: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Infantry: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Tank: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_TankTurret: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Drone: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Worker: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Terrain: nanite=off  slot0=/Game/Meshes/M_Grass.M_Grass
+SM_Road: nanite=off  slot0=/Game/Meshes/M_Road.M_Road
+SM_Bush: nanite=off  slot0=/Game/Meshes/M_Leaves.M_Leaves
+SM_CommandCenter: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Barracks: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Factory: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Tower: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Generator: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Wall: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Sandbags: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_House: nanite=off  slot0=/Game/Materials/M_RiseUnit.M_RiseUnit
+SM_Rock_A: nanite=off  slot0=/Game/Meshes/M_Rock.M_Rock
+SM_Rock_B: nanite=off  slot0=/Game/Meshes/M_Rock.M_Rock
+SM_Tree_A: nanite=off  slot0=/Game/Meshes/M_Trunk.M_Trunk
+SM_Tree_B: nanite=off  slot0=/Game/Meshes/M_Trunk.M_Trunk
+SM_Tree_C: nanite=off  slot0=/Game/Meshes/M_Trunk.M_Trunk
+TOTAL=25 ALTERADAS=5

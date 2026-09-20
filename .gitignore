@@ -1,0 +1,19 @@
+# Caches e temporários da UE5
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Arquivos do Visual Studio
+.vs/
+*.sln
+*.slnx
+*.vcxproj
+
+# Logs
+*.log
+
+# Pacotes de assets pesados (mantidos apenas localmente)
+Content/Megaplant_Library/
+Content/SciFI_Lite_Assets/
